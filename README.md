@@ -4,6 +4,6 @@ This purpose of app is order food from canteen in PTIT HCM, but now it closed fo
 <br />
 <br />
 To run this app
-1. Run script to import database to MYSQL
-2. Import code to XAMPP and start server
-3. Enjoy!
+<br />1. Run script to import database to MYSQL
+<br />2. Import code to XAMPP and start server
+<br />3. Enjoy!
